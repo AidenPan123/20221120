@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: music - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "D:\我的文档\环境变量\TEMP\RSPD0BA.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/music.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"I:\All_code\20220918\music.cpp"
+]
+Creating command line "cl.exe @"D:\我的文档\环境变量\TEMP\RSPD0BA.tmp"" 
+Creating temporary file "D:\我的文档\环境变量\TEMP\RSPD0BB.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/music.pdb" /debug /machine:I386 /out:"Debug/music.exe" /pdbtype:sept 
+.\Debug\music.obj
+.\Debug\PlayMusicOnce.obj
+]
+Creating command line "link.exe @"D:\我的文档\环境变量\TEMP\RSPD0BB.tmp""
+<h3>Output Window</h3>
+Compiling...
+music.cpp
+I:\All_code\20220918\music.cpp(5) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Linking...
+
+
+
+<h3>Results</h3>
+music.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

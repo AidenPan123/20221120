@@ -1,0 +1,6 @@
+﻿  music.cpp
+C:\Users\pande\Desktop\ALLCODE\20221120\music.cpp(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  PlayMusicOnce.cpp
+C:\Users\pande\Desktop\ALLCODE\20221120\PlayMusicOnce.cpp(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  music.vcxproj -> C:\Users\pande\Desktop\ALLCODE\20221120\x64\Debug\music.exe
