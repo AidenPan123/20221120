@@ -16,8 +16,9 @@ int main()
 	loadimage(&backgroundImage, _T("background.jpg"), WIDTH, HEIGHT);	// 加载背景图片
 	putimage(0, 0, &backgroundImage);								// 显示背景图片
 
-	{
+	
 	while (1)
+	{
 		PlayMusicOnce("告白气球.mp3");
 		Sleep(200000);
 		PlayMusicOnce("告白气球.mp3");
